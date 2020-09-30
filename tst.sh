@@ -1,6 +1,6 @@
 #!/bin/bash
 #!/bin/sh
-#Code:Yaman Efkar
+#Code:Samet Polat
 #Türk Siber Timi
 #İnstagram : @turksibertimi
 #Youtube : YamanEfkar
